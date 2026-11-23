@@ -1,0 +1,1 @@
+# Act_4.3_Estructuras_lineales_parametrizadas
